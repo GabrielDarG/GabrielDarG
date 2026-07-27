@@ -1,16 +1,16 @@
 <div align="center">
 ### Olá, eu sou o Gabriel 👋
  
-Formado em Ciências da Computação (UNICID), focado em desenvolvimento de
-software, análise de algoritmos e banco de dados.
+Formado em Ciências da Computação (UNICID), em busca de uma oportunidade
+na área de TI.
  
 </div>
-- 🔭 Atualmente construindo o **LivePoll**, uma plataforma de enquetes com
-  resultado em tempo real
-- 🎓 TCC: **Focus Up**, plataforma de produtividade gamificada com IA
-  (Django + Ollama)
-- 📊 Também curto trabalhar com dados — modelo de Machine Learning
-  comparando algoritmos de previsão de demanda
+- 💻 Tenho facilidade para aprender novas tecnologias, trabalhar em
+  equipe e resolver problemas de forma eficiente
+- 🎯 Interesse em desenvolvimento de software, análise de dados e banco
+  de dados — aberto a oportunidades em qualquer área de TI
+- 🌱 Sempre com algum projeto pessoal em andamento pra praticar e
+  aprender coisa nova
 - 💬 Pergunta sobre qualquer um dos meus projetos abaixo, respondo
   rapidinho
 - 📫 Contato: gabrieldarcolette@gmail.com · [LinkedIn](https://www.linkedin.com/in/gabriel-darcolette-271056366/)
